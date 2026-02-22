@@ -20,5 +20,4 @@ TravelGuideAI+ is an enhanced AI-based travel itinerary generator built using St
 3. Run:
    streamlit run travel.py
 
-## Internship Ready
-This project is suitable for internship submission with advanced AI features.
+ 
